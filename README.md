@@ -1,4 +1,5 @@
-# Template UI Editor
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102) ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Template UI Editor 👨🏻‍💻
 
 A PHP based script to edit your html templates without touching code.
 
@@ -7,7 +8,7 @@ A PHP based script to edit your html templates without touching code.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
-<img src="https://i.makeagif.com/media/3-08-2019/uf6WvO.gif" alt="How to use Template Editor - A simple walkthrough">
+<div style="text-align:center"><img src="https://i.makeagif.com/media/3-08-2019/uf6WvO.gif" alt="How to use Template Editor - A simple walkthrough"></div>
 
 Template UI Editor was built to eliminate the tiresome work switching to and from code and browser while we edit an HTML page. To get started, simply copy *uiedit.php* and */ckeditor* folder to the root where your html files reside on your server. After copying mentioned files just visit http://localhost/uiedit.php or www.yoursite.com/path/to/dir/uiedit.php
 
